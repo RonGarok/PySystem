@@ -1,3 +1,0 @@
-#!/bin/sh
-echo "Launching PySystem..."
-exec python3 /boot.py
